@@ -18,7 +18,11 @@ Pod::Spec.new do |s|
     #   * Finally, don't worry about the indent, CocoaPods strips it!
     
     s.description      = <<-DESC
-    TODO: Add long description of the pod here.
+    XiangZhanBase can display one or more images or videos by providing either UIImage
+    objects, PHAsset objects, or URLs to library assets, web images/videos or local files.
+    The photo browser handles the downloading and caching of photos from the web seamlessly.
+    Photos can be zoomed and panned, and optional (customisable) captions can be displayed.
+    DESCRIPTION
     DESC
     
     s.homepage         = 'https://github.com/codeLufei/XiangZhanBase'

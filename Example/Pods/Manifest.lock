@@ -44,7 +44,7 @@ SPEC CHECKSUMS:
   MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
   MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
   WebViewJavascriptBridge: 7f5bc4d3581e672e8f32bd0f812d54bc69bb8e29
-  XiangZhanBase: c0494a58e4f56b38ed353720a7b67d7a7272015d
+  XiangZhanBase: 3524e4b8c7ad7968f7f74c4b6e346e7d8171d1a6
 
 PODFILE CHECKSUM: caa2c99f3120fbb28f4d830699deec0a1417c31c
 
